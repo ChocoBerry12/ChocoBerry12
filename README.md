@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igotaspot426@gmail.com)](mailto:igotaspot426@gmail.com)
 	
-[![Minsu's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/ChocoBerry12/github-readme-stats)
+[![ChocoBerry12's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/ChocoBerry12/github-readme-stats)
